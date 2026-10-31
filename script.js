@@ -1,7 +1,7 @@
 console.log("heeeey");
 console.log("Holaaaaaaa");
 let name = "Santiago";
-let lastname = "Ñey";
+let lastname = "Ley";
 let fullName = `Nombre: ${name} | Apellido: ${lastname}`;
 let fullName2 = "Nombre: " + name + " | Apellido: " + lastname;
 console.log(fullName);
